@@ -189,6 +189,18 @@ presente en la figura 2-70.
 
 https://youtu.be/0gZuIZ1MHtc
 
+# Conclusion
+   
+- Es importante conocer los conceptos básicos para entender sobre los circuitos electrónicos donde se puede medir los voltajes, corrientes y las resistencias, también es importante comprender las unidades de medidas  para cualquier tipo de ejercicio donde se apliquen estos términos en circuitos eléctricos
+
+- Es necesario seguir las recomendaciones dadas para evitar los accidentes al momento de realizar los circuitos electricos y asi prevenir accidentes
+
+# Blibliografia
+
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELECTRICOS ,  Mexico: Octava edición.
+
+
+
 
 
 
