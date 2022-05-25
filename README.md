@@ -179,7 +179,8 @@ presente en la figura 2-70.
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
-![39](https://user-images.githubusercontent.com/105754434/170375927-232929ec-3755-46f3-b026-44bddc76dedb.png)
+![image](https://user-images.githubusercontent.com/105754434/170384943-74697a64-7447-435b-8987-a56afc67c8d2.png)
+
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
